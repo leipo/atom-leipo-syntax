@@ -1,0 +1,11 @@
+{
+  "name": "leipo-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Syntax by Leipo",
+  "repository": "https://github.com/leipo/atom-leipo-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  }
+}
