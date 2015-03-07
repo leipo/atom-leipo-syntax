@@ -1,7 +1,7 @@
 {
   "name": "leipo-syntax",
   "theme": "syntax",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Syntax by Leipo",
   "repository": "https://github.com/leipo/atom-leipo-syntax",
   "license": "MIT",
